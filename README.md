@@ -3,7 +3,7 @@
 ## Credit Risk Classification Report 
 
 
-The purpose of this analysis is to build, train and evaluate a linear regression model that identify the credit worthiness of a borrower.
+The purpose of this analysis is to build, train and evaluate a Logistic regression model that identify the credit worthiness of a borrower.
 
 We will be using a dataset of historical lending activity from a peer-to peer lending serviced company to predict the status of loans as healthy or high-risk .
 
